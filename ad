@@ -1,0 +1,65 @@
+[33mcommit 3c05944e6291115cec4976a09f043a7d5176aafd[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: unknown <abolfazlakbarnejad1384@gmail.com>
+Date:   Fri Oct 20 16:33:30 2023 +0330
+
+    first commeit
+
+[33mcommit d849e6d6f50c2d3117b2db75543ec1eefc82b9e5[m
+Author: unknown <abolfazlakbaenrjad1384@gmail.com>
+Date:   Sun Sep 24 10:58:28 2023 +0330
+
+    add sweetalert in project
+
+[33mcommit 128d90a750511b75d6176458d5d8ed0a33e59625[m
+Author: unknown <abolfazlakbaenrjad1384@gmail.com>
+Date:   Sun Sep 24 09:27:38 2023 +0330
+
+    fixed base part1
+
+[33mcommit fc06f9ecd409e92cb8bf53ffedb1b974739215df[m
+Author: unknown <abolfazlakbaenrjad1384@gmail.com>
+Date:   Sat Sep 23 04:40:14 2023 +0330
+
+    add application and fixed assets style and script
+
+[33mcommit 6a541930318d5150dcc3bc1e48e48908d7202db0[m
+Author: unknown <abolfazlakbaenrjad1384@gmail.com>
+Date:   Thu Sep 21 22:26:31 2023 +0330
+
+    fixe form login and middelwear
+
+[33mcommit 8cabac86ff95c86382b917ad323163e067a8d447[m
+Author: unknown <abolfazlakbaenrjad1384@gmail.com>
+Date:   Thu Sep 21 20:21:00 2023 +0330
+
+    add page auth in project
+
+[33mcommit c69aeda10d85a98c28b78cae038b364133ecb729[m
+Author: unknown <abolfazlakbaenrjad1384@gmail.com>
+Date:   Wed Sep 20 20:22:55 2023 +0330
+
+    end page admin parte 1
+
+[33mcommit 5e117beccd45934d462417c13c703c4ab2a84ae6[m
+Author: unknown <abolfazlakbaenrjad1384@gmail.com>
+Date:   Tue Sep 19 17:38:09 2023 +0330
+
+    create the part and fixed settings , skill , social media
+
+[33mcommit 05fe0a9301008339896354ecd86086b24e1c0b85[m
+Author: unknown <abolfazlakbaenrjad1384@gmail.com>
+Date:   Sat Sep 16 17:56:57 2023 +0330
+
+    add layouts resirse and create page index and create file Home Controller
+
+[33mcommit a72f32ccd4bdc23ae44f7c3328a25b86ae1adabd[m
+Author: unknown <abolfazlakbaenrjad1384@gmail.com>
+Date:   Sat Sep 16 10:06:07 2023 +0330
+
+    add routes panel admin
+
+[33mcommit 9d2fc6da33ae9a025e4effa84fdf851032f3ffab[m
+Author: unknown <abolfazlakbaenrjad1384@gmail.com>
+Date:   Sat Sep 16 00:41:05 2023 +0330
+
+    create project and create migrations and fixeds part1
